@@ -1,4 +1,3 @@
-/* eslint-disable */
 function numToStr(number) {
     let onesandteens = ['zero', 'one', 'two', 'three', 'four',
             'five', 'six', 'seven', 'eight', 'nine',
